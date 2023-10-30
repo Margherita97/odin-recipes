@@ -1,0 +1,45 @@
+.title {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 2.5em;
+}
+
+.main {
+    font-size: 80px;
+    font-weight: bold;
+    color: brown;
+}
+
+.one {
+    background-color: yellow;
+}
+
+.two {
+    background-color: tomato;
+}
+
+.three {
+    background-color: mediumspringgreen;
+}
+
+.imp {
+    text-align: center;
+    font-size: 70px;
+}
+
+.description {
+    background-color: pink;
+    color: #b035cbf7;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+.ingredients{
+    background-color: #21742c;
+    color: #f196c2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.directions {
+    background-color: aqua;
+    color: aliceblue;
+}
