@@ -1,12 +1,14 @@
 .title {
     font-family: 'Brush Script MT', cursive;
     font-size: 2.5em;
+    border: 5px dotted orange;
 }
 
 .main {
     font-size: 80px;
     font-weight: bold;
     color: brown;
+    text-align: center;
 }
 
 .one {
@@ -24,6 +26,8 @@
 .imp {
     text-align: center;
     font-size: 70px;
+    color: brown;
+    margin: 0 auto;
 }
 
 .description {
@@ -31,15 +35,22 @@
     color: #b035cbf7;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
+    padding: 8px;
 }
 
 .ingredients{
     background-color: #21742c;
+    padding: 8px;
     color: #f196c2;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 390px;
+    border: 5px dotted #f196c2;
 }
 
 .directions {
     background-color: aqua;
     color: aliceblue;
+    padding: 8px;
+    width: 390px;
+    border: 5px dotted aliceblue;
 }
